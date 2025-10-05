@@ -7,6 +7,14 @@ GPT Weather app
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Fifth day of my **14-day React/Next.js practice challenge vs ChatGPT 5.0**.  
+This project is a fully working **Weather App** that fetches live data from the OpenWeather API and displays it with a creative design twist.
+
+The UI features a glass-style card placed over a split background representing different weather conditions. It combines function and style—showing temperature, condition, and location in real time.
+
+---
+
+
 ## Getting Started
 
 First, run the development server:
