@@ -1,3 +1,10 @@
+My weather app
+<img width="1917" height="766" alt="image" src="https://github.com/user-attachments/assets/188ee0d0-6d51-49a1-bc08-32217bb60026" />
+
+GPT Weather app
+<img width="1920" height="810" alt="image" src="https://github.com/user-attachments/assets/55ebb45e-b8fa-4ddc-b237-02b4c455e9d5" />
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
