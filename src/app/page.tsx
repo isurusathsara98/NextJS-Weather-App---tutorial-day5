@@ -7,6 +7,7 @@ import GPTWeatherApp from "./components/GPTWeatherApp";
       <div className="min-h-screen bg-cover bg-center items-center justify-center flex flex-col" 
       style={{ backgroundImage: "url('/assets/weather1.jpg')" }}>
         <WeatherApp/>
+        <GPTWeatherApp/>  
       </div>
     );
 }
