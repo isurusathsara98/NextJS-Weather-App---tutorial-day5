@@ -9,6 +9,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Fifth day of my **14-day React/Next.js practice challenge vs ChatGPT 5.0**.  
 This project is a fully working **Weather App** that fetches live data from the OpenWeather API and displays it with a creative design twist.
+I ignored the .env.local file so if you are hoping run it locally, please aquire a API key from https://www.weatherapi.com/
 
 The UI features a glass-style card placed over a split background representing different weather conditions. It combines function and style—showing temperature, condition, and location in real time.
 
